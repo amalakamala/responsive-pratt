@@ -47,6 +47,15 @@ h1, h2, h3, h4, h5, h6{
 	width: 100%;
 }
 
+.text-responsive-welcome{
+	color: #FFF;
+	text-align: left;
+	padding: 10px 0;
+}
+
+.text-responsive-welcome h5{
+	font-weight: bold;
+}
 /*------------------ SECTION DESIGNED TO EXCEL------------------*/
 
 .section-designed-excel{
@@ -153,6 +162,11 @@ hr {
 	padding: 10px 0 15px 0; 
 }
 
+.form-input input, 
+.form-input textarea{
+	margin-bottom: 10px;
+}
+
 .section-created{
 	background-color: #1A1A1A;
 	padding: 10px 0;
@@ -164,10 +178,26 @@ hr {
 	color: #185F42;
 }
 
+/*------------------ SECTION FOOTER ------------------*/
 
 
 
+.form-input span{
+	margin-top: 20px;
+}
 
+.form-input span:after {
+  content: "";
+  width: 10px;
+  height: 10px;
+}
+
+.el-span {
+    color: red;
+    background-color: rgba(236,236,236,0.1);
+    padding: 5px 10px;
+    border-radius: 10px;
+}
 
 
 
