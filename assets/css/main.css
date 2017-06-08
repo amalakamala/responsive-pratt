@@ -132,7 +132,29 @@ hr {
 }
 
 
+/*------------------ SECTION FOOTER ------------------*/
 
+.section-footer{
+	background-color: #232323;
+	height: auto;
+	color: #FFF;
+	padding: 30px 0;
+}
+
+.form-input{
+	padding: 10px 0 15px 0; 
+}
+
+.section-created{
+	background-color: #1A1A1A;
+	padding: 10px 0;
+	text-align: center;
+}
+
+
+.section-created a{
+	color: #185F42;
+}
 
 
 
