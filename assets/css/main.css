@@ -59,12 +59,20 @@ h1, h2, h3, h4, h5, h6{
 	padding: 30px 0;
 }
 
+.designed-excel{
+	width: 100%;
+}
+
+.img-designed-excel{
+	padding: 0;
+}
+
 .text-designed-excel{
-	padding: 0 10px 20px 10px;
+	padding: 0 10px 0 10px;
 }
 
 .text-img{
-	padding: 20px 25px;
+	padding: 20px 20px;
 }
 
 hr {
